@@ -1,0 +1,1 @@
+docker build --rm -t firebase_cli . 
